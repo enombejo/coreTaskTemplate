@@ -36,7 +36,7 @@
 <!--            <version>5.1.38</version>-->
 <!--        </dependency>-->
 
-        <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+        <!--https://mvnrepository.com/artifact/mysql/mysql-connector-java-->
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
@@ -55,6 +55,15 @@
             <artifactId>hibernate-core</artifactId>
             <version>4.3.10.Final</version>
         </dependency>
-     </dependencies>
+
+        <!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-core -->
+<!--        <dependency>-->
+<!--            <groupId>org.hibernate</groupId>-->
+<!--            <artifactId>hibernate-core</artifactId>-->
+<!--            <version>5.4.22.Final</version>-->
+<!--        </dependency>-->
+
+
+    </dependencies>
 
 </project>
